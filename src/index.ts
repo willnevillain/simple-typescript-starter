@@ -1,6 +1,5 @@
 /* eslint-disable no-console */
 import express from 'express';
-import fetch from 'make-fetch-happen';
 
 const PORT = 3000;
 
